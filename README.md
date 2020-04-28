@@ -16,7 +16,7 @@ $ git clone git@github.com:Jeffrey-0/3D-Album.git
 
 或者
 
-打开[3D魔方相册github地址]直接克隆到本地
+打开[3D魔方相册github地址](https://github.com/Jeffrey-0/3D-Album)直接克隆到本地
 
 ## 配置
 
@@ -38,4 +38,3 @@ $ git clone git@github.com:Jeffrey-0/3D-Album.git
 
 
 
-[3D魔方相册github地址]:[https://github.com/Jeffrey-0/3D-Album]
