@@ -38,4 +38,4 @@ $ git clone git@github.com:Jeffrey-0/3D-Album.git
 
 
 
-[3D魔方相册github地址]:git@github.com:Jeffrey-0/3D-Album.git
+[3D魔方相册github地址]:[https://github.com/Jeffrey-0/3D-Album]
