@@ -2,7 +2,7 @@
 
 HTML5+CSS3实现3D魔方相册
 
-demo地址：[3D魔方相册]
+demo地址：[3D魔方相册](https://jeffrey-0.github.io/3D-Album/3D魔方相册.html)
 
 ## 效果演示
 
@@ -11,12 +11,12 @@ demo地址：[3D魔方相册]
 ## 安装
 
 ```shell
-$ git clone 
+$ git clone git@github.com:Jeffrey-0/3D-Album.git
 ```
 
 或者
 
-打开[3D魔方相册]直接克隆到本地
+打开[3D魔方相册github地址]直接克隆到本地
 
 ## 配置
 
@@ -35,3 +35,7 @@ $ git clone
 ## 使用
 
 在浏览器中打开`3D魔方相册.html`文件
+
+
+
+[3D魔方相册github地址]:git@github.com:Jeffrey-0/3D-Album.git
